@@ -51,6 +51,5 @@ O arquivo **`tratamento de dados.xlsx`** contém as seguintes abas:
 
 ## 📌 Observações
 - Os dados são fictícios e utilizados apenas para fins de aprendizado.
-- Este projeto demonstra boas práticas de organização e análise no Excel.
 
 ---
